@@ -1,1 +1,1 @@
-print(hello sanjar oka)
+print("hello sanjar oka")
